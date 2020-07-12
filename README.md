@@ -12,3 +12,11 @@
 
 ### 관심분야
 - RL, GAN, GNN 등등
+
+
+### 연락처
+이메일 : kgh6784@naver.com
+
+        kimji6784#gmail.com
+
+인스타 @jihun_222
