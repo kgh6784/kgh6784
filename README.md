@@ -15,8 +15,6 @@
 
 
 ### 연락처
-이메일 : kgh6784@naver.com
-
-        kimji6784#gmail.com
+이메일 : kimji6784@gmail.com
 
 인스타 @jihun_222
