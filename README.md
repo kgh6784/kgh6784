@@ -13,7 +13,7 @@
 이메일 : kimji6784@gmail.com
 
 ### Record
-Topic | Study & Reading Paper | Project & Competition
+Topic | Study & Code | Project & Competition
 :---: | :---: | :---: |
 Segmentation | [[github]](https://github.com/kgh6784/segmentation) | [[github]]() |
 Materials Informatics | [[github]](https://github.com/kgh6784/mse_ai) | [[github]]() |
