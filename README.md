@@ -5,10 +5,9 @@
 - 아주대 인공지능학과 석사과정 (2021.09 ~)
 
 ### 관심분야
-- Vision
-- Graph Neural Network
-- Medical
-- material science & engineering
+- Image Segmentation
+- Materials Informatics
+- Finance
 
 ### 연락처
 이메일 : kimji6784@gmail.com
@@ -16,11 +15,9 @@
 ### Record
 Topic | Study & Reading Paper | Project & Competition
 :---: | :---: | :---: |
-Segmentation | [[github]]() | [[github]]() |
-Materials Informatics | [[github]]() | [[github]]() |
+Segmentation | [[github]](https://github.com/kgh6784/segmentation) | [[github]]() |
+Materials Informatics | [[github]](https://github.com/kgh6784/mse_ai) | [[github]]() |
 Finance | [[github]]() | [[github]]() |
 
 ### My Paper
 
-### 최종 목표
-- 소재 개발에 vision과 gnn을 함께 적용해보고 싶습니다
