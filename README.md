@@ -16,8 +16,8 @@
 Topic | Study & Code | Project & Competition
 :---: | :---: | :---: |
 Segmentation | [[github]](https://github.com/kgh6784/segmentation) | [[github]]() |
-Materials Informatics | [[github]](https://github.com/kgh6784/mse_ai) | [[github]]() |
-Finance | [[github]]() | [[github]]() |
+WSSS | [[github]]() | [[github]]() |
+project | [[github]]() | [[github]]() |
 
 ### My Paper
 
