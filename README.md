@@ -6,18 +6,17 @@
 
 ### 관심분야
 - Image Segmentation
-- Materials Informatics
-- Finance
 
 ### 연락처
 이메일 : kimji6784@gmail.com
 
-### Record
-Topic | Study & Code | Project & Competition
-:---: | :---: | :---: |
-Segmentation | [[github]](https://github.com/kgh6784/segmentation) | [[github]]() |
-WSSS | [[github]]() | [[github]]() |
-project | [[github]]() | [[github]]() |
+### code based segmentation
+          Topic          |      Study & Code      |
+:---: | :---: |
+ViT | [[github]]() | [[github]](https://github.com/kgh6784/Vision_Transformer) |
+Diffusion | [[github]]() | [[github]](https://github.com/kgh6784/Diffusion) |
+Weakly Supervised | [[github]](segmentation_weakly) | [[github]](https://github.com/kgh6784/Weakly_supervised) |
+
 
 ### My Paper
 
