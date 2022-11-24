@@ -13,9 +13,9 @@
 ### code based segmentation
           Topic          |      Study & Code      |
 :---: | :---: |
-ViT | [[github]]() | [[github]](https://github.com/kgh6784/Vision_Transformer) |
-Diffusion | [[github]]() | [[github]](https://github.com/kgh6784/Diffusion) |
-Weakly Supervised | [[github]](segmentation_weakly) | [[github]](https://github.com/kgh6784/Weakly_supervised) |
+ViT | [[github]](https://github.com/kgh6784/Vision_Transformer) |
+Diffusion | [[github]](https://github.com/kgh6784/Diffusion) |
+Weakly Supervised | [[github]](https://github.com/kgh6784/Weakly_supervised) |
 
 
 ### My Paper
