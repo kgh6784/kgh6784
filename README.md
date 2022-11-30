@@ -18,5 +18,7 @@ Diffusion | [[github]](https://github.com/kgh6784/Diffusion) |
 Weakly Supervised | [[github]](https://github.com/kgh6784/Weakly_supervised) |
 
 
-### My Paper
+### 대회 참가
+- 입자 형태 분석 모델 개발 해커톤(LG 화학, AI팩토리 주관) 19/189
+- 2022 Samsung AI Challenge(삼성, 데이콘 주관) 39/600
 
