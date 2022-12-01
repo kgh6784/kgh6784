@@ -5,12 +5,12 @@
 - 아주대 인공지능학과 석사과정 (2021.09 ~)
 
 ### 관심분야
-- Image Segmentation
+- Image Segmentation, Diffusion
 
 ### 연락처
 이메일 : kimji6784@gmail.com
 
-### code based segmentation
+### code based study
  Topic | Study & Code |
  :---: | :---: |
 ViT | [[github]](https://github.com/kgh6784/Vision_Transformer) |
