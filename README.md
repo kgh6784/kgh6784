@@ -13,10 +13,10 @@
 ### code based study
  Topic | Study & Code |
  :---: | :---: |
-ViT | [[github]](https://github.com/kgh6784/Vision_Transformer) |
-Diffusion | [[github]](https://github.com/kgh6784/Diffusion) |
-Weakly Supervised | [[github]](https://github.com/kgh6784/Weakly_supervised) |
-
+Vision Transformer & CNN | [[github]](https://github.com/kgh6784/Vision_Transformer) |
+Diffusion & Denosing | [[github]](https://github.com/kgh6784/Diffusion) |
+Weakly Supervised Segmentation | [[github]](https://github.com/kgh6784/Weakly_supervised) |
+Medical | [[github]](https://github.com/kgh6784/medical_ai) |
 
 ### 대회 참가
 - 입자 형태 분석 모델 개발 해커톤(LG 화학, AI팩토리 주관) 19/189
