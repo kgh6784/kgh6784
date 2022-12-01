@@ -25,4 +25,4 @@ Medical | [[github]](https://github.com/kgh6784/medical_ai) |
 ### 참여 논문 
  Paper | Author
  :---: | :---:
-[[Classification of Central Venous Catheter Tip Position on Chest X-ray Using Artificial Intelligence]](https://www.mdpi.com/2075-4426/12/10/1637) | Seungkyo Jung, Jaehoon Oh, Jongbin Ryu, **Jihoon Kim**, Juncheol Lee, Yongil Cho, Myeong Seong Yoon and Ji Young Jeong
+Classification of Central Venous Catheter Tip Position on Chest X-ray Using Artificial Intelligence [[link]](https://www.mdpi.com/2075-4426/12/10/1637) | Seungkyo Jung, Jaehoon Oh, Jongbin Ryu, **Jihoon Kim**, Juncheol Lee, Yongil Cho, Myeong Seong Yoon and Ji Young Jeong
