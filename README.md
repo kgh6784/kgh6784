@@ -22,3 +22,7 @@ Medical | [[github]](https://github.com/kgh6784/medical_ai) |
 - 입자 형태 분석 모델 개발 해커톤(LG 화학, AI팩토리 주관) 19/189
 - 2022 Samsung AI Challenge(삼성, 데이콘 주관) 39/600
 
+### 참여 논문 
+ Paper | Link | Author
+ :---: | :---: | :---:
+Vision Transformer & CNN |[[link]](https://www.mdpi.com/2075-4426/12/10/1637) | Seungkyo Jung, Jaehoon Oh, Jongbin Ryu, **Jihoon Kim**, Juncheol Lee, Yongil Cho, Myeong Seong Yoon and Ji Young Jeong
