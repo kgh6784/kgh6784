@@ -1,4 +1,4 @@
-## 👋 Homo proponit, sed deus disponit 👋
+## 👋 Just do it!
 * I use `Python`, `Pytorch`
 * I study `Image Segmentation`, `Diffusion`
 
