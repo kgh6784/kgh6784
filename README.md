@@ -1,6 +1,13 @@
 ## 👋 Just do it!
-* I use `Python`, `Pytorch`
+* I use 
+<p align="center">
+<a><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Pytorch-EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white"/></a>
+</p>
 * I study `Image Segmentation`, `Diffusion`
+
+### 👋 Contact
+- kimji6784@gmail.com
 
 ### 👋 Experience
 |           Type           |       Date        | Contents                                                     |          Organization          | Repository                                                   |
@@ -31,7 +38,12 @@
 ### 👋 Interest
 - Image Segmentation, Diffusion
 
-### 👋 Contact
-kimji6784@gmail.com
+### 👋 Status
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=soonge&show_icons=true&theme=radical&bg_color=FFFFFF&text_color=000000&icon_color=C71585" height=160>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soonge&layout=compact" height=160>
+</p>
+
 
 
