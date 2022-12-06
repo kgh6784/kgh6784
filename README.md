@@ -18,11 +18,11 @@
 
 
 ### 👋 Paper & Contest
-|           Type           |       Date        | Contents                                                     |          Organization          | Repository                                                   |
-| :----------------------: | :---------------: | ------------------------------------------------------------ | :----------------------------: | ------------------------------------------------------------ |
+|                       Type                       |       Date        | Contents                   |          Organization          | Rank & Repo                                                   |
+| :------------------------------------------------------: | :---------------: | ---------------------------------------------- | :----------------------------: | ------------------------------- |
 | 🔥 Contest | 2022 | 입자 형태 분석 모델 개발 해커톤 | AI팩토리, LG화학 | 19/189 |
 | 🔥 Contest | 2022 | 2022 Samsung AI Challenge | DACON, Samsung | 39/600 |
-| 🔥 Paper | 2022 | Classification of Central Venous Catheter Tip Position on Chest X-ray Using Artificial Intelligence(Seungkyo Jung, Jaehoon Oh, Jongbin Ryu, **Jihoon Kim**, Juncheol Lee, Yongil Cho, Myeong Seong Yoon and Ji Young Jeong) | journal of Personalized Medicine | [Link](https://www.mdpi.com/2075-4426/12/10/1637) |
+| 🔥 Paper | 2022 | Classification of Central Venous Catheter Tip Position on Chest X-ray Using Artificial Intelligence (Seungkyo Jung, Jaehoon Oh, Jongbin Ryu, **Jihoon Kim**, Juncheol Lee, Yongil Cho, Myeong Seong Yoon and Ji Young Jeong) | journal of Personalized Medicine | [Link](https://www.mdpi.com/2075-4426/12/10/1637) |
 
 ### 👋 study
  Topic | Study & Code |
