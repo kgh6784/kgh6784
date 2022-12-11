@@ -31,7 +31,7 @@
 🚀 Diffusion & Denosing | [[github]](https://github.com/kgh6784/Diffusion) |
 🚀 Weakly Supervised Segmentation | [[github]](https://github.com/kgh6784/Weakly_supervised) |
 🚀 Medical area | [[github]](https://github.com/kgh6784/medical_ai) |
-
+🚀 Translation best source | [[github]] |
 
 ### 👋 Interest
 - Image Segmentation, Diffusion
