@@ -2,7 +2,7 @@
 * **I use** 
 <a><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Pytorch-EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white"/></a>
-* I study `Image Segmentation`, `Diffusion`
+* I study `Image Segmentation`, `Object Detection`, `Diffusion`, `Style-Transfer`
 
 ### 👋 Contact
 - kimji6784@gmail.com
