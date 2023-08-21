@@ -14,7 +14,8 @@
 | 🏫 Internship | 2019.09 ~ 2019.10 | 자율주행 알고리즘 개발 | 차세대융합기술연구원 | - |
 | 🔥 Bachelor Degree | 2014.03 ~ 2021.06 | Material Science and Engneering & AI | Ajou University | - |
 | 🏫 Internship | 2021.01 ~ 2021.08 | CILab under Prof.Jongbin Ryu at Ajou Univeristy | - |
-| 🔥 Master Degree | 2021.09 ~ | CILab under Prof.Jongbin Ryu at Ajou Univeristy | - |
+| 🔥 Master Degree | 2021.09 ~ 2023.06 | CILab under Prof.Jongbin Ryu at Ajou Univeristy | - |
+| 🔥 Researcher | 2021.07 ~ | MVLAB under Prof.YoungGon Kim at Seoul National Univeristy Hosipiatl| - |
 
 
 ### 👋 Paper & Contest
