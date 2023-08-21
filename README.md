@@ -15,7 +15,7 @@
 | 🔥 Bachelor Degree | 2014.03 ~ 2021.06 | Material Science and Engneering & AI | Ajou University | - |
 | 🏫 Internship | 2021.01 ~ 2021.08 | CILab under Prof.Jongbin Ryu at Ajou Univeristy | - |
 | 🔥 Master Degree | 2021.09 ~ 2023.06 | CILab under Prof.Jongbin Ryu at Ajou Univeristy | - |
-| 🔥 Researcher | 2023.07 ~ | MVLAB under Prof.YoungGon Kim at Seoul National Univeristy Hosipiatl | - |
+| 🔥 Researcher | 2023.07 ~ | MVLAB under Prof.YoungGon Kim at Seoul National Univeristy Hospital | - |
 
 
 ### 👋 Paper & Contest
